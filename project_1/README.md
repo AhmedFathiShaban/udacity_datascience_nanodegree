@@ -1,7 +1,9 @@
 # Analysis Of `Seattle Airbnb Open Data` Dataset
 
-## This project is part of the udacity data-science nanodegree program.
+## This project is part of the udacity data-science nanodegree program. [Accompanying blog post link](https://ahmedfathishaban.github.io/)
 
+
+### 
 ## 1.0. Motivation
 ### In this project, my aim is to gain some insights from the AirBnB Seattle Dataset.
 ### Specifically, there are three main questions I would like to answer : 
