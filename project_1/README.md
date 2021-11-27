@@ -29,5 +29,6 @@ The dataset itself is the combination of  `calendar.csv`, `reviews.csv`, and `li
 
 (Q3) The Data shows that the cheapest possible option would be Magnolia in January, with an average nightly price per person of $36.65. That shoud be our recommendation for the tourist.
 
-
+## 4.0. Acknowledgments
+This work was done as part of the Udacity datascience nanodegree. Thanks for AirBnB for providing such a useful dataset, and for Kaggle for hosting it.
 
